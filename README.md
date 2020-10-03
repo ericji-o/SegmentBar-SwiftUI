@@ -1,4 +1,4 @@
-# Shopper(SwiftUI)
+# SegmentBar-SwiftUI
 
 ## Example
 
